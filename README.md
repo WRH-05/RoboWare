@@ -1,7 +1,7 @@
-BACKEND : https://github.com/OussamaGhz/warehouse-robot-system /n
-ROBOT : https://github.com/WRH-05/RoboWare /n
-FRONTEND-dashboard : https://github.com/Beccaworsnop/nest-hackathon /n
-FRONTEND-portfolio : https://github.com/Beccaworsnop/nest-front
+BACKEND : https://github.com/OussamaGhz/warehouse-robot-system  
+ROBOT : https://github.com/WRH-05/RoboWare  
+FRONTEND-dashboard : https://github.com/Beccaworsnop/nest-hackathon  
+FRONTEND-portfolio : https://github.com/Beccaworsnop/nest-front  
 # SmartWare Warehouse Manager
 
 SmartWare is an autonomous warehouse management robot designed to streamline logistics operations. Built as a line follower robot, SmartWare leverages an optimized Dijkstra algorithm to navigate complex environments—particularly excelling in sharp angle turns. The robot uses integrated RFID scanning to identify locations and packages, controls a stepper motor-driven crank shift for elevation adjustments, and communicates via MQTT for robust real-time messaging.
