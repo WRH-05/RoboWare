@@ -1,6 +1,6 @@
-BACKEND : https://github.com/OussamaGhz/warehouse-robot-system
-ROBOT : https://github.com/WRH-05/RoboWare
-FRONTEND-dashboard : https://github.com/Beccaworsnop/nest-hackathon
+BACKEND : https://github.com/OussamaGhz/warehouse-robot-system /n
+ROBOT : https://github.com/WRH-05/RoboWare /n
+FRONTEND-dashboard : https://github.com/Beccaworsnop/nest-hackathon /n
 FRONTEND-portfolio : https://github.com/Beccaworsnop/nest-front
 # SmartWare Warehouse Manager
 
